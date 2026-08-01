@@ -40,7 +40,7 @@
 
 ## 🛠️ Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,java,c,cpp,mysql,mongodb,firebase,git,github,postman,vscode,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python, django,c,cpp,postgres,mongodb,firebase,git,github,postman,vscode&theme=dark" />
 </div>
 
 ---
