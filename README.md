@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0ea5e9,100:9333ea&text=Hi%20👋%20I'm%20Suman&fontAlign=50&fontAlignY=38&fontSize=50&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Learner%20%7C%20Builder&descAlign=50&descAlignY=60&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0ea5e9,100:9333ea&text=Hi%20👋%20I'm%20Suman&fontAlign=50&fontAlignY=38&fontSize=50&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=55&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=🚀+Building+beautiful+and+useful+things;💡+Learning+new+tech+every+day;⚙️+Turning+ideas+into+reality+with+code;🔥+Consistency+%2B+Curiosity+%3D+Growth" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=🚀+Building+beautiful+and+useful+web+apps;⚡+Focused+on+clean+code+and+great+UX;🧠+Learning+and+shipping+every+day" />
 
 <img src="https://komarev.com/ghpvc/?username=Suman9709&label=PROFILE+VIEWS&color=38bdf8&style=for-the-badge" />
 
@@ -15,12 +15,8 @@
   <a href="https://github.com/Suman9709"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="mailto:suman.k9709@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/suman9709/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <!-- <a href="https://x.com/your-x-username"><img src="https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/></a> -->
-  <!-- <a href="https://www.instagram.com/your-instagram-username"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> -->
   <a href="https://portfolio-suman9709-20.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </div>
-
-> Replace the above social links with your real profiles.
 
 ---
 
@@ -40,7 +36,7 @@
 
 ## 🛠️ Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python, django,c,cpp,postgres,mongodb,firebase,git,github,postman,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,django,c,cpp,postgres,mongodb,firebase,git,github,postman,vscode&theme=dark" />
 </div>
 
 ---
@@ -104,7 +100,7 @@
 
 ## 🎶 Coding Vibes (Optional Spotify)
 <div align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31sbxexampleplaceholder&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31sbxexampleplaceholder&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b1f0" />
 </div>
 
 > Optional: Replace the `uid` in the Spotify image URL with your own Spotify user ID.
